@@ -16,8 +16,7 @@ user_input = input("Hey user, enter a number of days and i will convert it to ho
 user_input_number = int(user_input)
 
 calculated_value = days_to_units(int(user_input))
-print(calculated_value)
-
+print(calculated_value) #aug 13
 
 
 
