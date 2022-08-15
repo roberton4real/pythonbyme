@@ -20,5 +20,6 @@ def days_to_units(num_of_days): #this line defines a function
     print("All Good")
 
 days_to_units(35) #this is needed to execute my functions
-
-
+days_to_units(45)
+days_to_units(350)
+days_to_units(3125)
