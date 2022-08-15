@@ -1,1 +1,1 @@
-print(f"20 days are {50} minutes")
+print("200 is a great number")
